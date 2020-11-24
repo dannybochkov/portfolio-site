@@ -3,7 +3,7 @@ title: Danny Bochkov
 subtitle: Mixing Engineer
 email: dannybochkov@gmail.com
 description: Recording, Mixing and Mastering Services
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
 author:
 street_address: North South Recordings
