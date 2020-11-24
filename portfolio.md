@@ -37,7 +37,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Daniel Duke - Good Love (2019)</h3>
+					<h3>Daniel Duke - Good Love (2020)</h3>
 				</header>
 				<p>Guitar, Production, Programming, Mixing, Mastering</p>
 				<ul class="actions">
