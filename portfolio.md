@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 layout: landing
-description: 'Listen to my latest projects'
+description: 'My latest projects'
 image: assets/images/pic12.jpg
 nav-menu: true
 ---
