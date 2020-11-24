@@ -6,7 +6,7 @@ image: assets/images/pic14sott.jpg
 nav-menu: true
 ---
 <div>
-  <h3> <br> </h3>
+  <h3> <br> Spotify </h3>
 </div>
 
 <div>
@@ -28,4 +28,14 @@ nav-menu: true
 <iframe src="https://open.spotify.com/embed/album/10DplSuQoVC8SOY9HX0vCC" width="250" height="250" frameborder="10" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <iframe src="https://open.spotify.com/embed/album/73kuq2MumXJOz2v7iA8bQf" width="250" height="250" frameborder="10" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
+
+<div>
+  <h3> <br> YouTube </h3>
+</div>
+
+<div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q4_P70jQx4U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </div>

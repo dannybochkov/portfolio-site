@@ -53,7 +53,87 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Amy Ellen - My Heart (2019)</h3>
+					<h3>Amy Ellen - My Heart (Single)</h3>
+				</header>
+				<p>Editing, Mixing, Mastering</p>
+				<ul class="actions">
+					<li><a href="links.html" class="button">Listen</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="links.html" class="image">
+			<img src="{% link assets/images/pic19.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Amy Ellen - In The Dark (Single)</h3>
+				</header>
+				<p>Editing, Mixing, Mastering</p>
+				<ul class="actions">
+					<li><a href="links.html" class="button">Listen</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="links.html" class="image">
+			<img src="{% link assets/images/pic20.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Amy Ellen - It's Time (Single)</h3>
+				</header>
+				<p>Editing, Mixing, Mastering</p>
+				<ul class="actions">
+					<li><a href="links.html" class="button">Listen</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="links.html" class="image">
+			<img src="{% link assets/images/pic21.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Jailbirds - The Great Escape (2019)</h3>
+				</header>
+				<p>Engineering, Editing, Mixing, Mastering</p>
+				<ul class="actions">
+					<li><a href="links.html" class="button">Listen</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="links.html" class="image">
+			<img src="{% link assets/images/pic22.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Jailbirds - Break The Silence (2017)</h3>
+				</header>
+				<p>Editing, Mixing, Mastering</p>
+				<ul class="actions">
+					<li><a href="links.html" class="button">Listen</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="links.html" class="image">
+			<img src="{% link assets/images/pic23.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Daniel Duke - Brother (2016)</h3>
 				</header>
 				<p>Editing, Mixing, Mastering</p>
 				<ul class="actions">
