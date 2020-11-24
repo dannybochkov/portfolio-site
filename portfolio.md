@@ -15,7 +15,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="links.html" class="image">
 			<img src="{% link assets/images/pic14sott.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -25,13 +25,13 @@ nav-menu: true
 				</header>
 				<p>Guitar, Production, Programming, Mixing, Mastering</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Listen</a></li>
+					<li><a href="links.html" class="button">Listen</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="links.html" class="image">
 			<img src="{% link assets/images/pic13gl.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -41,13 +41,13 @@ nav-menu: true
 				</header>
 				<p>Guitar, Production, Programming, Mixing, Mastering</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Listen</a></li>
+					<li><a href="links.html" class="button">Listen</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="links.html" class="image">
 			<img src="{% link assets/images/pic17.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -57,7 +57,7 @@ nav-menu: true
 				</header>
 				<p>Editing, Mixing, Mastering</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Listen</a></li>
+					<li><a href="links.html" class="button">Listen</a></li>
 				</ul>
 			</div>
 		</div>
