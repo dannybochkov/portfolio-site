@@ -1,12 +1,12 @@
 ---
 layout: landing
 title: Links
-description: Collection of Soundcloud and Spotify Links
+description: Soundcloud and Spotify Links
 image: assets/images/pic15nsr.jpg
 nav-menu: true
 ---
 <div>
-  <h3> <br> For best quality please listen through Spotify Player </h3>
+  <h3> <br> </h3>
 </div>
 
 <div>
