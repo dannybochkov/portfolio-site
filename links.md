@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Links
-description: Soundcloud and Spotify Links
+description: 'Soundcloud and Spotify Links'
 image: assets/images/pic14sott.jpg
 nav-menu: true
 ---
